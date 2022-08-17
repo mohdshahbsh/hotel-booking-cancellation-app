@@ -1,5 +1,7 @@
 ## Impact of COVID
 
+[APP DEMO](https://mohdshahbsh-hotel-booking-cancellation-app-hotel-app-ym27gr.streamlitapp.com/)
+
 In the last 2 years, the tourism industry was dealt a heavy economic blow with the onset of COVID-19. In the span of 3 months, the virus was able to bring the global hotel occupancy rate down to 13.3% since May 2020, which is an 82.3% drop from the same time the previous year.
 
 <img src="https://i.imgur.com/Yw0f4DJ.png" width="600px" alt="https://www.statista.com/statistics/206825/hotel-occupancy-rate-by-region/">
